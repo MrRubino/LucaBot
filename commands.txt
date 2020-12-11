@@ -1,0 +1,7 @@
+"?god - prints a picture that embodies our server",
+"?8ball - ask a question and you get an answer",
+"?clear # - it clears # newest messages",
+"?coinflip - flips a coin",
+"?dm - the bot dms you something special",
+"?msg [@] [message] - the bot dms the person your message",
+"?spam - spams someone"
