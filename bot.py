@@ -11,7 +11,7 @@ from discord.ext import commands
 
 client = commands.Bot(command_prefix='?')
 client.remove_command('help')
-token = 'NzAyNjkxMjc2ODM0OTk2MzE1.XqDuTg.3KnI-RvxHJetIQy7r02V-3N7xf0'
+token = 'this is where the server token would be but due to privacy reasons, I removed mine'
 listOfCommands = ["?god - prints a picture that embodies our server",
                   "?8ball - ask a question and you get an answer",
                   "?clear # - it clears # newest messages",
